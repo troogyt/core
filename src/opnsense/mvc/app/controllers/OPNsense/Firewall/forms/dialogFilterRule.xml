@@ -66,7 +66,7 @@
         <id>rule.source_not</id>
         <label>Source / Invert</label>
         <type>checkbox</type>
-        <help>Use this option to invert the sense of the match.</help>
+        <help>Negate the match: match everything EXCEPT this.</help>
     </field>
     <field>
         <id>rule.destination_net</id>
@@ -77,7 +77,7 @@
         <id>rule.destination_not</id>
         <label>Destination / Invert</label>
         <type>checkbox</type>
-        <help>Use this option to invert the sense of the match.</help>
+        <help>Negate the match: match everything EXCEPT this.</help>
     </field>
     <field>
         <id>rule.destination_port</id>
